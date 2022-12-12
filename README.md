@@ -1,2 +1,2 @@
-# research-method-2
-## This is research-method team project
+# research-methology-2
+## This is research-methology term project
